@@ -1,0 +1,9 @@
+com\model\lab6\resources\JakartaEE10Resource.class
+lab6\dao\UserDAO.class
+com\model\lab6\Student.class
+lab6\dao\Database.class
+lab6\dao\MarathonDAO.class
+com\model\lab6\JakartaRestConfiguration.class
+com\model\lab6\Marathon.class
+com\model\lab6\User.class
+com\model\lab6\Author.class
